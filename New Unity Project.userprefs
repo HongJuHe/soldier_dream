@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\main_trigger.cs">
+    <Files>
+      <File FileName="Assets\script\main_trigger.cs" Line="16" Column="18" />
+      <File FileName="Assets\script\MoviePlayer.cs" Line="14" Column="36" />
+      <File FileName="Assets\script\main_trigger.cs" Line="37" Column="1" />
+      <File FileName="Assets\script\Explain_first.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\FlockController.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Explain_second.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\main2_trigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\Explain_third.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\badending.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\normalending.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\enemy_sense.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\attack.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\attack_e.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
